@@ -12,7 +12,8 @@ h1{
 }
 
 #mainNav{
-    background-color: rgba(29, 146, 88, 0.904)
+    background-color: rgba(17, 41, 73, 0.904)!important;
+    
 }
 
 header.masthead {
@@ -20,10 +21,52 @@ header.masthead {
     overflow: hidden;
     padding-top: calc(7rem + 72px);
     padding-bottom: 7rem;
-    background: linear-gradient(0deg, #313131 0%, #030303 100%);
+    background: linear-gradient(0deg, #373838 0%, #030303 100%);
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
     background-size: cover;
 
+  }
+
+.text-secondary{
+   margin-top:50px;
+   color: #050505!important;
+ }
+
+/*about me section*/
+#photo{
+  width:70%;
+   padding-left: 50px;
+  }
+
+/*about me section*/
+ #about{
+    padding-right: 50px;
+  }
+
+/*about me section*/
+section {
+    padding: 6rem 0;
+  }
+
+/*about me section*/
+section h2 {
+    font-size: 2.25rem;
+    line-height: 2rem;
+  }
+
+.bg-primary {
+    background-color: rgba(17, 41, 73, 0.904)!important;
+}
+
+.footer {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(17, 41, 73, 0.904);
+    color: #fff;
+  }
+  
+  .copyright {
+    background-color: rgba(17, 41, 73, 0.904);
   }
