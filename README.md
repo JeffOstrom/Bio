@@ -3,7 +3,7 @@ Synopsis
 
 - Jeffrey Ostrom: Portfolio 
 
-[Click Here](https://jeffostrom.github.io/bio/) to visit
+- [Click Here](https://jeffostrom.github.io/bio/) to visit
 
 
 Built With
