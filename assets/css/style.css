@@ -1,0 +1,29 @@
+
+/*nav bar customer color*/
+#navWord{
+    color:white;
+    font-family: 'Arimo', sans-serif;
+    font-size: 21px;
+
+}
+
+h1{
+    font-family: 'Cabin', sans-serif;;
+}
+
+#mainNav{
+    background-color: rgba(29, 146, 88, 0.904)
+}
+
+header.masthead {
+    position: relative;
+    overflow: hidden;
+    padding-top: calc(7rem + 72px);
+    padding-bottom: 7rem;
+    background: linear-gradient(0deg, #313131 0%, #030303 100%);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+
+  }
