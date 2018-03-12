@@ -7,20 +7,29 @@
 
 }
 
+/*font size style*/
 h1{
     font-family: 'Cabin', sans-serif;;
 }
-
+/*font size style*/
 h2{
     font-family:'Cabin', sans-serif;;
 
 }
+
+/*portfolio underline style*/
+.line{
+	border-top: 5px solid #8c8b8b;
+}
+
+
 /*navbar*/
 #mainNav{
     background-color: rgba(17, 41, 73, 0.904)!important;
     
 }
 
+/*main header styling*/
 header.masthead {
     position: relative;
     overflow: hidden;
@@ -34,6 +43,7 @@ header.masthead {
 
   }
 
+/*top title*/
 .text-secondary{
    margin-top:30px;
    color: #050505!important;
