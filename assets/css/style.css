@@ -11,6 +11,11 @@ h1{
     font-family: 'Cabin', sans-serif;;
 }
 
+h2{
+    font-family:'Cabin', sans-serif;;
+
+}
+/*navbar*/
 #mainNav{
     background-color: rgba(17, 41, 73, 0.904)!important;
     
@@ -30,7 +35,7 @@ header.masthead {
   }
 
 .text-secondary{
-   margin-top:50px;
+   margin-top:30px;
    color: #050505!important;
  }
 
@@ -54,19 +59,27 @@ section {
 section h2 {
     font-size: 2.25rem;
     line-height: 2rem;
+    margin-top: 20px;
   }
 
 .bg-primary {
     background-color: rgba(17, 41, 73, 0.904)!important;
 }
-
+/*footer*/
 .footer {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
     background-color: rgba(17, 41, 73, 0.904);
     color: #fff;
   }
-  
-  .copyright {
+ /*bottom footer*/ 
+.copyright {
     background-color: rgba(17, 41, 73, 0.904);
-  }
+}
+
+/*contact page control*/
+#contact{
+    padding:0rem 0;
+    padding-bottom: 2.5rem;
+}
+
